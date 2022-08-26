@@ -18,6 +18,10 @@ export class ProductsComponent implements OnInit {
     this.getProducts();
   }
 
+  goToDetail(id:string){
+    alert(id);
+  }
+
   getProducts() {
     this.productsService.getAllProducts()
     .subscribe(data =>{

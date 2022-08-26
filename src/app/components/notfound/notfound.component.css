@@ -1,0 +1,25 @@
+.not-found-container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+}
+
+.not-found-container h1{
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+.not-found-container img{
+  height: 240px;
+  width: auto;
+}
+
+.not-found-container a{
+  font-family: sans-serif;
+}
+
+
+

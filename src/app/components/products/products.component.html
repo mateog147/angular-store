@@ -3,8 +3,9 @@
     <div class="catalog">
       <div *ngFor="let product of products">
         <img [src]="product.image" alt="image">
-        <h3>{{product.price}}</h3>
-        <p>{{product.name}}</p>
+        <h3>{{product.name}}</h3>
+        <p>${{product.price}} COP</p>
+        <button type="button" class="btn btn-outline-primary" (click)="goToDetail(product.id)">Buy Product</button>
       </div>
     </div>
   </div>

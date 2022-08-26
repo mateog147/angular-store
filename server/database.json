@@ -33,132 +33,132 @@
       "image": "../../assets/images/toy.jpg"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "5",
+      "name": "Patineta",
+      "price": 350000,
+      "description": "Patineta tipo peny, original de california",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/157/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "6",
+      "name": "Triciclo usado",
+      "price": 8000,
+      "description": "Bicicleta usado, para restaurar",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/146/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "7",
+      "name": "Ford Clasico",
+      "price": 15000000,
+      "description": "Ford clasico documentos al día",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/111/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
+      "id": "8",
+      "name": "MacBook",
       "price": 500000,
-      "description": "Bicicleta clasica",
+      "description": "Computador portatil Apple, no incluye accesorios",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/119/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
-      "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "id": "9",
+      "name": "Carros para restaurar",
+      "price": 6000000,
+      "description": "Carros antiguos para restaurar",
+      "quantity": 2,
+      "image": "https://picsum.photos/id/133/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
+      "id": "10",
+      "name": "SmartPhone",
       "price": 500000,
-      "description": "Bicicleta clasica",
+      "description": "Telefono inteligente usado",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/160/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "11",
+      "name": "Despertador",
+      "price": 18000,
+      "description": "Reloj despertador clasico",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/157/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "12",
+      "name": "PC",
+      "price": 700000,
+      "description": "Computadora portatil usada",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/180/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "13",
+      "name": "Furgoneta",
+      "price": 1000000,
+      "description": "Furgoneta Volkswagen",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/183/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "14",
+      "name": "Vaca",
+      "price": 789456,
+      "description": "Vaca peluda, por motivo de viaje",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/200/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "15",
+      "name": "Barco",
+      "price": 45806000,
+      "description": "Barco velero tiene 40 años, mantenido muy bien",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/211/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
-      "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "id": "16",
+      "name": "Tetera",
+      "price": 123456,
+      "description": "Tetera 4 tazas",
+      "quantity": 5,
+      "image": "https://picsum.photos/id/225/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
+      "id": "17",
+      "name": "Tenedor",
       "price": 500000,
-      "description": "Bicicleta clasica",
-      "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "description": "Juego de tenedores de plata",
+      "quantity": 3,
+      "image": "https://picsum.photos/id/23/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
+      "id": "18",
+      "name": "Camara",
       "price": 500000,
-      "description": "Bicicleta clasica",
+      "description": "Camara analoga",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/250/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "19",
+      "name": "Mug",
+      "price": 7000,
+      "description": "Mug con estampado",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/30/600/400"
     },
     {
-      "id": "1",
-      "name": "Bicicleta",
-      "price": 500000,
-      "description": "Bicicleta clasica",
+      "id": "20",
+      "name": "Kindle",
+      "price": 425000,
+      "description": "Aparato lectura para E-Books",
       "quantity": 1,
-      "image": "../../assets/images/bike.jpg"
+      "image": "https://picsum.photos/id/367/600/400"
     }
   ]
 }

@@ -7,12 +7,16 @@ import { AppRoutingModule } from './app-routing.module';
 import { ProductsComponent } from './components/products/products.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ProductService } from './services/product.service';
+import { AboutComponent } from './components/about/about.component';
+import { NotfoundComponent } from './components/notfound/notfound.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    ProductsComponent
+    ProductsComponent,
+    AboutComponent,
+    NotfoundComponent
   ],
   imports: [
     BrowserModule,
