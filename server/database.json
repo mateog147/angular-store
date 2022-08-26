@@ -1,0 +1,164 @@
+{
+  "products":[
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Libros",
+      "price": 40000,
+      "description": "Colección de libros clasicos",
+      "quantity": 5,
+      "image": "../../assets/images/books.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Casa para Mascotas",
+      "price": 500000,
+      "description": "Casa para perros, ideal para poner en el jardin",
+      "quantity": 1,
+      "image": "../../assets/images/house.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Juguete",
+      "price": 10000,
+      "description": "Juguete usado, pertenecio a mi abuelo pero ya no lo quiero",
+      "quantity": 1,
+      "image": "../../assets/images/toy.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bicicleta",
+      "price": 500000,
+      "description": "Bicicleta clasica",
+      "quantity": 1,
+      "image": "../../assets/images/bike.jpg"
+    }
+  ]
+}
