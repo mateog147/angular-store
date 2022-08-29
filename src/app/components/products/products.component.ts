@@ -19,7 +19,7 @@ export class ProductsComponent implements OnInit {
   }
 
   goToDetail(id:string){
-    alert(id);
+    this.router.navigate(['/detail',id]);
   }
 
   getProducts() {
