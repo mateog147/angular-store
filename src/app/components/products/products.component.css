@@ -17,6 +17,7 @@
 
 .catalog div:hover{
   border: 2px solid gray;
+  box-shadow: 2px 4px #888888;
 }
 
 .catalog div img{

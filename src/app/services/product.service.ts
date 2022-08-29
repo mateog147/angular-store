@@ -1,6 +1,6 @@
+import { Product } from './../models/product';
 import { Injectable } from '@angular/core';
 import { catchError, Observable, of } from 'rxjs';
-import { Product } from '../models/product';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 @Injectable({
@@ -20,6 +20,12 @@ export class ProductService {
     return this.http
     .get<Product[]>(this.URL)
     .pipe(catchError(this.handleError<Product[]>('getProducts', [])));
+  }
+
+  getProductById(id:string):Observable<Product>{
+    return this.http
+    .get<Product>(`${this.URL}/${id}`)
+    .pipe(catchError(this.handleError<Product>('getProductById')));
   }
 
   private handleError<T>(operation = 'operation', result?: T) {

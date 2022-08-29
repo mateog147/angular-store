@@ -1,1 +1,11 @@
-<p>detail works! {{productId}}</p>
+<div class="detail-container">
+  <img src={{product.image}} alt="">
+  <section class="product-info-container">
+    <h2>{{product.name}}</h2>
+    <h4>${{product.price | currency:'COP':'code'}} </h4>
+    <p>{{product.description}}</p>
+    <h4>Stock:{{product.quantity}}</h4>
+    <button class="btn btn-info">Add to cart</button>
+  </section>
+</div>
+

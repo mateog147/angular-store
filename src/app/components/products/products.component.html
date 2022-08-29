@@ -4,7 +4,7 @@
       <div *ngFor="let product of products">
         <img [src]="product.image" alt="image">
         <h3>{{product.name}}</h3>
-        <p>${{product.price}} COP</p>
+        <p>${{product.price | currency:'COP':'code'}}</p>
         <button type="button" class="btn btn-outline-primary" (click)="goToDetail(product.id)">Buy Product</button>
       </div>
     </div>

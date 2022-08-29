@@ -10,9 +10,9 @@
     },
     {
       "id": "2",
-      "name": "Libros",
+      "name": "Discos",
       "price": 40000,
-      "description": "Colección de libros clasicos",
+      "description": "Colección de discos de vinilo clasicos",
       "quantity": 5,
       "image": "../../assets/images/books.jpg"
     },
