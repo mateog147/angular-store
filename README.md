@@ -1,27 +1,49 @@
-# AngularStore
+# Proyecto práctico para validación y mejoramiento de habilidades en Programación Frontend (Angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
-## Development server
+### Enunciado
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Vamos a crear el catálogo de una tienda en línea que ofrezca una gran variedad de
+productos. Los artículos se obtendrán a partir de la consulta a un servicio REST (mock) que
+puede ejecutarse de manera simultánea en el servidor local y que obtiene los datos de un
+archivo JSON.
+.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Correr localmente
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Clone el proyecto
 
-## Running unit tests
+```bash
+  git clone https://github.com/mateosofka/angular-store.git
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Abra el directorio
 
-## Running end-to-end tests
+```bash
+  cd angular-store
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Instanle las dependecias desde la consola
 
-## Further help
+```bash
+  npm install
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Corra el servidor MOCK desde la consola
+
+```bash
+  npm run server
+```
+
+Desde otra consola corra el aplicativo.
+
+```bash
+  ng serve -o
+```
+
+
+## Autor
+
+- [@mateosofka](https://github.com/mateosofka)
